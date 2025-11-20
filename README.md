@@ -9,7 +9,7 @@ Take your heart
 - Huevos
 
 - pronombres: tu/madre
-<picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNzMjV1eHRjY3d3YzJzNnpydHlsN2RjcWVha2I0ZWM0M3doMGp4MSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/Cmr1OMJ2FN0B2/giphy.gif" width = 300px></picture>
+
 
 
 
