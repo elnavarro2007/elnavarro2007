@@ -9,7 +9,7 @@ Take your heart
 - Huevos
 
 - pronombres: tu/madre
-<picture> <img align="right" src="https://tenor.com/cYser7DDbrk.gifhttps://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmswZmxqeWRiNW44cWI2NXpiNWlhaWt0ZjZ1aWZxdmY0eTM3MjRxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/khL8NFCSuOor68eXPB/giphy.gif" width = 300px></picture>
+<picture> <img align="right" src="https://tenor.com/es/view/adamghik-agentjones-gif-26142196" width = 300px></picture>
 
 
 
