@@ -15,7 +15,7 @@ Take your heart
 <picture> <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZnN2hpOHVtMzVta2FqeDlrcjFhOTQycW9iZjZzcnRxdnVoZG9zcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vu3Oh34tdi0qaDWpvZ/giphy.gif" width = 300px></picture>
 <p><picture> <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZnOXQwd3p6dGhkMzc4M2h1YmJna2FwMzdscmFzdW05ZmNyM2VoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2cMxhQqSJoRoiVJqfC/giphy.gif" width = 300px></picture></p>
 <picture> <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZ3bGxiaHVqZXFmbzUxcGJzbGE0eWpjenN3ZmU1OWxtanlmbmFzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FdXWJ7ep8nDoTlfFtN/giphy.gif" width = 300px></picture>
-<picture><img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhmYTNvMWFhemkzdHNoOWJpYm5mcmV2Y2NscThpeHFma2t5dmRvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OovKvQaKzwzLy/giphy.gif"></picture>
+<picture> <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhmYTNvMWFhemkzdHNoOWJpYm5mcmV2Y2NscThpeHFma2t5dmRvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OovKvQaKzwzLy/giphy.gif" width = 300px></picture>
 
 
 
