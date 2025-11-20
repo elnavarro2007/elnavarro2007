@@ -1,7 +1,14 @@
-## Hi there 👋
-Would you like to sign my peition?
+  ## Hi there 👋
+  Would you like to sign my peition?
+                      - Postal dude
 
 Take your heart
+
+- 🔭 Estoy esclavizado por DAM
+- 🌱 Aprendiendo cositas
+- Huevos
+
+- pronombres: tu/madre
 
 
 
