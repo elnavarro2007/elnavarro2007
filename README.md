@@ -9,7 +9,7 @@ Take your heart
 - Huevos
 
 - pronombres: tu/madre
-<picture> <img align="right" src="[https://tenor.com/es/view/postal-dude-postal-dude-rws-running-with-scissors-gif-2359398287500083188](https://tenor.com/cYser7DDbrk.gif)" width = 300px></picture>
+<picture> <img align="right" src="https://tenor.com/cYser7DDbrk.gif" width = 300px></picture>
 
 
 
