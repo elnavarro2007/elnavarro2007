@@ -1,6 +1,6 @@
   ## Hi there 👋
   Would you like to sign my peition?
-                      - Postal dude
+   <p> - Postal dude </p>
 
 Take your heart
 
